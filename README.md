@@ -1,3 +1,5 @@
+> **Moved.** This operator was merged into [`tercen/asinh_operator`](https://github.com/tercen/asinh_operator) as version 2.0.0, with this repository's history. Development continues there; this repository is archived.
+
 # asinh_rust_operator
 
 Arcsinh transform for Tercen, with optional cofactor estimation. Rust port of
